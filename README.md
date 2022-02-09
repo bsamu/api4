@@ -1,4 +1,4 @@
-practice-react-backend-w14 is the backend for this
+practice-react-backend-w14 is the backend for this, watch out for the ports
 
 # Getting Started with Create React App
 
